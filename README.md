@@ -87,7 +87,6 @@ Maxwell Mogambi - https://github.com/maxwellmogambi
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```javascript
-Replace placeholders such as `73%`, `Maxwell Mogambi`, and `https://github.com/maxwellmogambi` with your actual details. This markdown provides clear instructions for running the project and outlines future work, author information, and the license.
-```
+outlines future work, author information, and the license.
+
 
